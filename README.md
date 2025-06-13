@@ -1,7 +1,21 @@
-## 🎮 Snake
+<p align="center">
+<img src="https://github.com/user-attachments/assets/bfbb3a7e-0d50-4bb0-8640-6f42f269f9f3" width="300">
+</p>
 
-### 📝 Description  
+<h1 align="center"> 
+Snake
+</h1>
+<p align="center">
 A single-player classic snake game where the player controls a growing snake that eats food on the screen.
+</p>
+
+---
+## 🎮 Gameplay Showcase
+
+Here’s a quick look at the game in action:
+<p align="center">
+<img src="https://github.com/user-attachments/assets/4618f4e2-003d-40a8-af22-c74b5ee0a067" width="500">
+</p>
 
 ---
 
